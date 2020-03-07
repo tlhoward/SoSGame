@@ -1,0 +1,10 @@
+# Unity Files and Folders
+Assets/TextMesh*Pro
+Assets/Aseprite2Unity
+Library/
+Logs/
+Packages/
+ProjectSettings/
+
+*.meta
+*.anim
